@@ -231,6 +231,6 @@ If a payment fails, verify that your card details are current under Billing > Pa
 | DXF | .dxf|
 | PDF Drawing | .pdf|
 
-<p align="center"> **[Company Logo]**</p>
+<p align="center"> [Company Logo]</p>
 
 <p align="center"> End of SourceParts User Guide  |  Version 1.0  |  May 2026 </p>
