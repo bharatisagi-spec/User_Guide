@@ -84,6 +84,7 @@ SourceParts accepts 3D CAD files and 2D drawings. To upload a file:
 2.	Click **Upload File** or drag and drop your design file into the upload area.
 3.	Wait for the file analysis to complete. The Instant Quoting Engine analyzes your geometry, identifies the manufacturing features, and prepares the configuration options. This takes under 30 seconds for most files.
 4.	Do the part preview that appears on the right side of the screen. Confirm the geometry renders correctly before proceeding.
+
 **Note:** If your part preview shows missing faces or incorrect geometry, your file may contain errors. Use your CAD tool to repair the model and re-upload.
 ### 3.2 Configuring Your Order
 After uploading your file, configure the manufacturing parameters:
