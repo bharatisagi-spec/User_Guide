@@ -61,7 +61,8 @@ Follow these steps to create your SourceParts account:
 4.	Select your account type: Buyer, Supplier, or Administrator.
 5.	Complete your company profile by entering your company name, industry, and billing address.
 6.	Click **Create Account**. SourceParts sends a verification email to the address you entered.
-7.	Open the verification email and click Verify My Email. Your account is now active.
+7.	Open the verification email and click **Verify My Email**. Your account is now active.
+
 **Note:**
 Use your work email address when you register. SourceParts uses your email domain to associate your account with your organization's team plan, if one exists.
 ### 2.3 Signing In
