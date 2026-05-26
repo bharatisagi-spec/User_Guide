@@ -13,6 +13,7 @@ User Guide for SourceParts
 ## Introduction
 This section introduces SourceParts.
 ### 1.1 About SourceParts
+
 SourceParts is an AI-powered, on-demand manufacturing marketplace that connects you - engineers, designers, and procurement professionals - with a global network of vetted manufacturing suppliers. With SourceParts, you upload your design file, configure your specifications, and receive an instant quote in seconds. You no longer spend days negotiating with suppliers or chasing delivery timelines.
 
 SourceParts supports the full manufacturing lifecycle, from rapid prototyping to large-scale production runs. The platform uses AI algorithms to match your job to the best-fit supplier, verify quality, and track your order from placement to delivery - all within a single, unified dashboard.
