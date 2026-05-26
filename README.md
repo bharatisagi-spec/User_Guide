@@ -2,7 +2,7 @@
 User Guide for SourceParts
 ## Table of Contents
 
-- [1. Introduction](#introduction)
+- [1.] [Introduction](#introduction)
 - [Getting Started](#getting-started)
 - [Placing an Order](#placing-an-order)
 - [Tracking and Managing Orders](#tracking-and-managing-orders)
