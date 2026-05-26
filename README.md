@@ -25,7 +25,16 @@ SourceParts serves three primary user types:
 - Buyers - You source custom-manufactured parts or assemblies for your projects. You range from early-stage startups to Fortune 500 procurement teams.
 - Suppliers - You are a manufacturer or machine shop that receives job opportunities through the marketplace, fills your production capacity, and grows your customer base.
 - Administrators - You manage your organization's SourceParts account, set user permissions, view spend analytics, and configure company-wide preferences.
- 
+
+### 1.3 Key Features
+| Feature | Description |
+|----------|-------------|
+| Instant Quoting Engine | Receive accurate pricing and lead times within seconds of uploading your CAD file. |
+| AI Supplier Matching | The platform routes your job to the optimal supplier based on capability, location, and capacity. |
+| Order Dashboard | Track every order from quote to delivery in one centralized view. |
+| Quality Assurance | All suppliers in the network meet verified quality standards before they receive your jobs. |
+| All suppliers in the network meet verified quality standards before they receive your jobs. | Order CNC machining, 3D printing, sheet metal fabrication, injection molding, and more from one platform. |
+| Team Collaboration | Invite team members, assign roles, and share order history across your organization. |
 ## Getting Started
 ## Placing an Order
 ## Tracking and Managing Orders
