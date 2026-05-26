@@ -40,17 +40,18 @@ This guide walks you through every aspect of the SourceParts platform. Use the t
 - Chapters 5–6: Managing your account and working with suppliers
 - Chapters 7: Troubleshooting
   
-## Getting Started
+## 2. Getting Started
 ### 2.1 System Requirements
 Before you create your account, confirm that your environment meets the following requirements:
 | Requirement | Minimum Specification |
-|--------------|-----------------------|
+|------------|-----------------------|
 | Operating System | Windows 10 / macOS 12 / Ubuntu 20.04 or later | 
 | Web Browser | Google Chrome 110+, Mozilla Firefox 110+, Microsoft Edge 110+ |
 | Internet Connection | Broadband (5 Mbps or faster recommended) |
 | CAD File Formats Supported | STEP, IGES, STL, OBJ, SolidWorks (.sldprt), DXF |
 | Maximum File Size | 100 MB per file upload |
-[!Note] 
+
+**Note:** 
 SourceParts does not support Internet Explorer. Use one of the supported browsers listed above for the best experience.
 ### 2.2 Creating Your Account
 Follow these steps to create your SourceParts account:
@@ -61,7 +62,7 @@ Follow these steps to create your SourceParts account:
 5.	Complete your company profile by entering your company name, industry, and billing address.
 6.	Click **Create Account**. SourceParts sends a verification email to the address you entered.
 7.	Open the verification email and click Verify My Email. Your account is now active.
-[!Note]
+**Note:**
 Use your work email address when you register. SourceParts uses your email domain to associate your account with your organization's team plan, if one exists.
 ### 2.3 Signing In
 To sign in to your SourceParts account:
@@ -82,7 +83,7 @@ SourceParts accepts 3D CAD files and 2D drawings. To upload a file:
 2.	Click **Upload File** or drag and drop your design file into the upload area.
 3.	Wait for the file analysis to complete. The Instant Quoting Engine analyzes your geometry, identifies the manufacturing features, and prepares the configuration options. This takes under 30 seconds for most files.
 4.	Do the part preview that appears on the right side of the screen. Confirm the geometry renders correctly before proceeding.
-[!Note:] If your part preview shows missing faces or incorrect geometry, your file may contain errors. Use your CAD tool to repair the model and re-upload.
+**Note:** If your part preview shows missing faces or incorrect geometry, your file may contain errors. Use your CAD tool to repair the model and re-upload.
 ### 3.2 Configuring Your Order
 After uploading your file, configure the manufacturing parameters:
 #### 3.2.1 Selecting a Manufacturing Process
@@ -111,7 +112,7 @@ After you configure all parameters, SourceParts displays your instant quote. The
 -	Recommended supplier match and supplier rating
 -	Shipping options and estimated delivery date
 Compare lead time options side by side. Select the option that balances cost and speed for your project. Click on **Add to Cart** to proceed, or click on **Save Quote** to return to this quote later.
-[!Note:] Saved quotes remain valid for 30 days. After 30 days, re-upload your file to generate a new quote, as material prices and supplier availability may change.
+**Note:** Saved quotes remain valid for 30 days. After 30 days, re-upload your file to generate a new quote, as material prices and supplier availability may change.
 ### 3.4 Checking Out
 To complete your **View Cart** order:
 1.	Click from the navigation bar.
@@ -137,7 +138,7 @@ You can send messages directly to your assigned supplier from the order detail p
 2.	Scroll to the Messages section at the bottom of the order detail page.
 3.	Type your message and attach any supporting files if needed.
 4.	Click **Send**. The supplier receives your message and responds within one business day.
-[!Note:] Keep all project communication within the SourceParts messaging system. This ensures your conversation is logged and accessible if a dispute arises.
+**Note:** Keep all project communication within the SourceParts messaging system. This ensures your conversation is logged and accessible if a dispute arises.
 ### 4.3 Requesting a Revision
 If you need to revise your design or specifications after placing an order, contact your supplier through the messaging system as soon as possible. Revisions are only possible before the order enters the In Production status. If your order is already In Production, click **Request Change** and describe the change. SourceParts reviews the request and notifies you whether the supplier can accommodate it and whether additional charges apply.
 ### 4.4 Approving Delivery
@@ -170,7 +171,7 @@ If you are an Administrator, you manage your organization's user accounts from t
 1.	Click the three-dot menu next to the user's name and select Remove User.
 2.	Confirm the action in the dialog box. The user immediately loses access to your organization's account.
 
-[!Note:] When you remove a user, their order history remains visible to Administrators. The data is not deleted.
+**Note:** When you remove a user, their order history remains visible to Administrators. The data is not deleted.
 ### 5.3 Configuring Notifications
 You control which email and in-app notifications SourceParts sends you. Go to Account Settings and click **Notifications** to see the full list. Toggle each notification type on or off based on your preferences. Common notification types include order status changes, quote expiry reminders, supplier messages, and invoice availability.
 ### 5.4 Billing and Invoices
@@ -225,6 +226,7 @@ If a payment fails, verify that your card details are current under Billing > Pa
 | SolidWorks Part | .sldprt|
 | DXF | .dxf|
 | PDF Drawing | .pdf|
+
 ##<p align="center"> [Company Logo]
 
 End of SourceParts User Guide  |  Version 1.0  |  May 2026 </p>
