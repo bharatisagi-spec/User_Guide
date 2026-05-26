@@ -11,11 +11,8 @@ User Guide for SourceParts
 7. [Troubleshooting](#troubleshooting)
 
 ## Introduction
-
 This section introduces SourceParts.
-
 ### 1.1 About SourceParts
-
 SourceParts is an AI-powered, on-demand manufacturing marketplace that connects you - engineers, designers, and procurement professionals - with a global network of vetted manufacturing suppliers. With SourceParts, you upload your design file, configure your specifications, and receive an instant quote in seconds. You no longer spend days negotiating with suppliers or chasing delivery timelines.
 
 SourceParts supports the full manufacturing lifecycle, from rapid prototyping to large-scale production runs. The platform uses AI algorithms to match your job to the best-fit supplier, verify quality, and track your order from placement to delivery - all within a single, unified dashboard.
@@ -35,6 +32,14 @@ SourceParts serves three primary user types:
 | Quality Assurance | All suppliers in the network meet verified quality standards before they receive your jobs. |
 | All suppliers in the network meet verified quality standards before they receive your jobs. | Order CNC machining, 3D printing, sheet metal fabrication, injection molding, and more from one platform. |
 | Team Collaboration | Invite team members, assign roles, and share order history across your organization. |
+
+### 1.4 How This Guide Is Organized
+This guide walks you through every aspect of the SourceParts platform. Use the table of contents to jump to the section that is most relevant to your role and task.
+- Chapters 1–2: Introduction and getting started
+- Chapters 3–4: Placing orders and tracking them
+- Chapters 5–6: Managing your account and working with suppliers
+- Chapters 7: Troubleshooting
+
 ## Getting Started
 ## Placing an Order
 ## Tracking and Managing Orders
