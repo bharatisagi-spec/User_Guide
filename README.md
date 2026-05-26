@@ -10,7 +10,7 @@ User Guide for SourceParts
 6. [Working with Suppliers](#working-with-suppliers)
 7. [Troubleshooting](#troubleshooting)
 
-## Introduction
+## 1. Introduction
 This section introduces SourceParts.
 ### 1.1 About SourceParts
 SourceParts is an AI-powered, on-demand manufacturing marketplace that connects you - engineers, designers, and procurement professionals - with a global network of vetted manufacturing suppliers. With SourceParts, you upload your design file, configure your specifications, and receive an instant quote in seconds. You no longer spend days negotiating with suppliers or chasing delivery timelines.
@@ -140,6 +140,7 @@ You can send messages directly to your assigned supplier from the order detail p
 2.	Scroll to the Messages section at the bottom of the order detail page.
 3.	Type your message and attach any supporting files if needed.
 4.	Click **Send**. The supplier receives your message and responds within one business day.
+
 **Note:** Keep all project communication within the SourceParts messaging system. This ensures your conversation is logged and accessible if a dispute arises.
 ### 4.3 Requesting a Revision
 If you need to revise your design or specifications after placing an order, contact your supplier through the messaging system as soon as possible. Revisions are only possible before the order enters the In Production status. If your order is already In Production, click **Request Change** and describe the change. SourceParts reviews the request and notifies you whether the supplier can accommodate it and whether additional charges apply.
@@ -158,7 +159,7 @@ To update your personal or company information:
 3.	Edit the relevant fields in the Profile or Company tabs.
 4.	Click **Save Changes**.
 ### 5.2 Managing Team Members
-If you are an Administrator, you manage your organization's user accounts from the Team Management page. To access it, go to Account Settings and click the Team tab.
+If you are an Administrator, you manage your organization's user accounts from the Team Management page. To access it, go to Account Settings and click the **Team tab**.
 #### 5.2.1	Inviting a New User
 1.	Click **Invite User**.
 2.	Enter the new user's email address and select their role: Viewer, Buyer, or Administrator.
@@ -185,6 +186,7 @@ Every supplier in the SourceParts network has a public profile that shows their 
 As an Administrator or Buyer, you manage your preferred supplier list from Account Settings > Supplier Preferences:
 -	Preferred Suppliers - SourceParts gives these suppliers priority when matching jobs from your account.
 -	Blocked Suppliers - SourceParts never assigns jobs from your account to these suppliers.
+
 To add a supplier to either list, search for their name in the Supplier Preferences page and click **Prefer** or **Block**.
 ### 6.3 Requesting Custom Capabilities
 If you need a manufacturing process or material that does not appear in the standard SourceParts catalog, submit a custom capability request:
@@ -229,6 +231,6 @@ If a payment fails, verify that your card details are current under Billing > Pa
 | DXF | .dxf|
 | PDF Drawing | .pdf|
 
-##<p align="center"> [Company Logo]
+<p align="center"> **[Company Logo]**</p>
 
-End of SourceParts User Guide  |  Version 1.0  |  May 2026 </p>
+<p align="center"> End of SourceParts User Guide  |  Version 1.0  |  May 2026 </p>
